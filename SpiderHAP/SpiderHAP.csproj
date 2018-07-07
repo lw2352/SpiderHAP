@@ -80,6 +80,7 @@
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
+    <Content Include="10P.html" />
     <Content Include="lib\HtmlAgilityPack.dll" />
     <Content Include="lib\HtmlAgilityPack.pdb" />
     <Content Include="lib\HtmlAgilityPack.XML" />
